@@ -1,0 +1,11 @@
+.container{
+     background-color: silver;
+     border-radius: 10px;
+     padding: 25px; 
+      margin: auto;
+    margin-top: 120px;
+    padding: 17px;
+    width: 300px;
+    opacity: 0.7;
+}
+
